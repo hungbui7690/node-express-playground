@@ -1,0 +1,255 @@
+{
+	"info": {
+		"_postman_id": "e1f846d2-6855-4c6d-8fdb-9db5e66f774c",
+		"name": "Store API",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "13813451"
+	},
+	"item": [
+		{
+			"name": "Get All Products",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "{{URL}}/products",
+					"host": [
+						"{{URL}}"
+					],
+					"path": [
+						"products"
+					],
+					"query": [
+						{
+							"key": "page",
+							"value": "1",
+							"disabled": true
+						},
+						{
+							"key": "featured",
+							"value": "false",
+							"disabled": true
+						},
+						{
+							"key": "company",
+							"value": "ikea",
+							"disabled": true
+						},
+						{
+							"key": "name",
+							"value": "din",
+							"disabled": true
+						},
+						{
+							"key": "fields",
+							"value": "name,price",
+							"disabled": true
+						},
+						{
+							"key": "sort",
+							"value": "price",
+							"disabled": true
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Get All Products (TEST)",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "{{URL}}/products/static",
+					"host": [
+						"{{URL}}"
+					],
+					"path": [
+						"products",
+						"static"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Query Params",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "{{URL}}/products/?featured=true",
+					"host": [
+						"{{URL}}"
+					],
+					"path": [
+						"products",
+						""
+					],
+					"query": [
+						{
+							"key": "page",
+							"value": "1",
+							"disabled": true
+						},
+						{
+							"key": "featured",
+							"value": "false",
+							"disabled": true
+						},
+						{
+							"key": "company",
+							"value": "ikea",
+							"disabled": true
+						},
+						{
+							"key": "name",
+							"value": "din",
+							"disabled": true
+						},
+						{
+							"key": "fields",
+							"value": "name,price",
+							"disabled": true
+						},
+						{
+							"key": "sort",
+							"value": "price",
+							"disabled": true
+						},
+						{
+							"key": "featured",
+							"value": "true"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Company & Name",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "{{URL}}/products/?company=marcos&name=a",
+					"host": [
+						"{{URL}}"
+					],
+					"path": [
+						"products",
+						""
+					],
+					"query": [
+						{
+							"key": "page",
+							"value": "1",
+							"disabled": true
+						},
+						{
+							"key": "featured",
+							"value": "false",
+							"disabled": true
+						},
+						{
+							"key": "company",
+							"value": "ikea",
+							"disabled": true
+						},
+						{
+							"key": "name",
+							"value": "din",
+							"disabled": true
+						},
+						{
+							"key": "fields",
+							"value": "name,price",
+							"disabled": true
+						},
+						{
+							"key": "sort",
+							"value": "price",
+							"disabled": true
+						},
+						{
+							"key": "company",
+							"value": "marcos"
+						},
+						{
+							"key": "name",
+							"value": "a"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Numeric Filters",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "{{URL}}/products/?numericFilters=price>40,rating>=4",
+					"host": [
+						"{{URL}}"
+					],
+					"path": [
+						"products",
+						""
+					],
+					"query": [
+						{
+							"key": "page",
+							"value": "1",
+							"disabled": true
+						},
+						{
+							"key": "featured",
+							"value": "false",
+							"disabled": true
+						},
+						{
+							"key": "company",
+							"value": "ikea",
+							"disabled": true
+						},
+						{
+							"key": "name",
+							"value": "din",
+							"disabled": true
+						},
+						{
+							"key": "fields",
+							"value": "name,price",
+							"disabled": true
+						},
+						{
+							"key": "sort",
+							"value": "price",
+							"disabled": true
+						},
+						{
+							"key": "numericFilters",
+							"value": "price>40,rating>=4"
+						}
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}

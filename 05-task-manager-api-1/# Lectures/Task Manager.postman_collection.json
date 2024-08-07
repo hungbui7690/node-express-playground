@@ -1,0 +1,163 @@
+{
+	"info": {
+		"_postman_id": "3fd14eeb-bf4b-4102-8c58-305436e98a2f",
+		"name": "Task Manager",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Get ALL Tasks",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "{{URL}}/tasks",
+					"host": [
+						"{{URL}}"
+					],
+					"path": [
+						"tasks"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Create Task",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"name\" : \"learn and learn\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "{{URL}}/tasks",
+					"host": [
+						"{{URL}}"
+					],
+					"path": [
+						"tasks"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Get SINGLE Task",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"name\" : \"testing\",\r\n    \"success\" : true\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "{{URL}}/tasks/6345e0a253e14294e1b5",
+					"host": [
+						"{{URL}}"
+					],
+					"path": [
+						"tasks",
+						"6345e0a253e14294e1b5"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Update Task (PATCH)",
+			"request": {
+				"method": "PATCH",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"name\" : \"second task update 1\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "{{URL}}/tasks/6345e0a253e14294e1b52b93",
+					"host": [
+						"{{URL}}"
+					],
+					"path": [
+						"tasks",
+						"6345e0a253e14294e1b52b93"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Delete Task",
+			"request": {
+				"method": "DELETE",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"name\" : \"testing\",\r\n    \"success\" : true\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "{{URL}}/tasks/6345f12f259c4b79975b882c",
+					"host": [
+						"{{URL}}"
+					],
+					"path": [
+						"tasks",
+						"6345f12f259c4b79975b882c"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Edit Task (PUT)",
+			"request": {
+				"method": "PUT",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"name\" : \"shake and bake\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "{{URL}}/tasks/6345e196fb318b93cee485f7",
+					"host": [
+						"{{URL}}"
+					],
+					"path": [
+						"tasks",
+						"6345e196fb318b93cee485f7"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}

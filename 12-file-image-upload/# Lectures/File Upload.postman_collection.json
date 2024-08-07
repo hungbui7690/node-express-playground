@@ -1,0 +1,81 @@
+{
+	"info": {
+		"_postman_id": "c38e30be-4e33-4a35-99f6-735f25142a42",
+		"name": "File Upload",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "13813451"
+	},
+	"item": [
+		{
+			"name": "Get All Products",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "{{URL}}/products",
+					"host": [
+						"{{URL}}"
+					],
+					"path": [
+						"products"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Create Product",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"name\": \"product 1\",\r\n    \"price\": 300,\r\n    \"image\" : \"/uploads/computer-3.jpeg\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "{{URL}}/products",
+					"host": [
+						"{{URL}}"
+					],
+					"path": [
+						"products"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Upload Product Image",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "formdata",
+					"formdata": [
+						{
+							"key": "image",
+							"type": "file",
+							"src": "/C:/Users/7hanhHung/Desktop/computer-3.jpeg"
+						}
+					]
+				},
+				"url": {
+					"raw": "{{URL}}/products/upload",
+					"host": [
+						"{{URL}}"
+					],
+					"path": [
+						"products",
+						"upload"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}

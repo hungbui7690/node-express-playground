@@ -1,0 +1,802 @@
+[
+  {
+    "company": "Lehner, Lesch and Armstrong",
+    "position": "Gutmann-Bogisich",
+    "status": "interview",
+    "jobType": "internship",
+    "createdBy": "66ab630060a0a6d176c49003",
+    "createdAt": "2024-03-11T12:59:03Z"
+  },
+  {
+    "company": "Kuhic-Towne",
+    "position": "Medhurst-Stark",
+    "status": "declined",
+    "jobType": "remote",
+    "createdBy": "66ab630060a0a6d176c49003",
+    "createdAt": "2023-11-10T16:10:15Z"
+  },
+  {
+    "company": "Upton-Johns",
+    "position": "Skiles Group",
+    "status": "declined",
+    "jobType": "part-time",
+    "createdBy": "66ab630060a0a6d176c49003",
+    "createdAt": "2024-02-25T08:26:15Z"
+  },
+  {
+    "company": "Ziemann-Bradtke",
+    "position": "Reynolds, Price and Hoppe",
+    "status": "pending",
+    "jobType": "internship",
+    "createdBy": "66ab630060a0a6d176c49003",
+    "createdAt": "2023-09-15T03:40:47Z"
+  },
+  {
+    "company": "Schamberger and Sons",
+    "position": "Fahey, Kunde and Kuphal",
+    "status": "pending",
+    "jobType": "remote",
+    "createdBy": "66ab630060a0a6d176c49003",
+    "createdAt": "2024-01-17T20:17:33Z"
+  },
+  {
+    "company": "Baumbach, Hagenes and Adams",
+    "position": "Bogan, Hilpert and Kunde",
+    "status": "declined",
+    "jobType": "internship",
+    "createdBy": "66ab630060a0a6d176c49003",
+    "createdAt": "2024-01-19T01:43:40Z"
+  },
+  {
+    "company": "Block-Carter",
+    "position": "Witting, Collier and Wolf",
+    "status": "pending",
+    "jobType": "remote",
+    "createdBy": "66ab630060a0a6d176c49003",
+    "createdAt": "2023-09-21T07:15:47Z"
+  },
+  {
+    "company": "Doyle-Rosenbaum",
+    "position": "Marvin-Turcotte",
+    "status": "interview",
+    "jobType": "internship",
+    "createdBy": "66ab630060a0a6d176c49003",
+    "createdAt": "2023-09-27T07:52:57Z"
+  },
+  {
+    "company": "Yost, Torp and Bednar",
+    "position": "Hand Inc",
+    "status": "declined",
+    "jobType": "internship",
+    "createdBy": "66ab630060a0a6d176c49003",
+    "createdAt": "2023-10-12T05:16:29Z"
+  },
+  {
+    "company": "Thiel, Thompson and Spencer",
+    "position": "Kub Group",
+    "status": "pending",
+    "jobType": "remote",
+    "createdBy": "66ab630060a0a6d176c49003",
+    "createdAt": "2024-01-21T20:35:20Z"
+  },
+  {
+    "company": "Cummerata LLC",
+    "position": "Rau-Considine",
+    "status": "interview",
+    "jobType": "part-time",
+    "createdBy": "66ab630060a0a6d176c49003",
+    "createdAt": "2024-03-24T23:31:42Z"
+  },
+  {
+    "company": "Wyman LLC",
+    "position": "Gibson LLC",
+    "status": "declined",
+    "jobType": "remote",
+    "createdBy": "66ab630060a0a6d176c49003",
+    "createdAt": "2024-02-10T11:10:38Z"
+  },
+  {
+    "company": "Wunsch, Gleason and Padberg",
+    "position": "Mante, Kohler and Harber",
+    "status": "declined",
+    "jobType": "full-time",
+    "createdBy": "66ab630060a0a6d176c49003",
+    "createdAt": "2023-12-04T22:30:21Z"
+  },
+  {
+    "company": "Christiansen Inc",
+    "position": "Reichel, Orn and Breitenberg",
+    "status": "pending",
+    "jobType": "full-time",
+    "createdBy": "66ab630060a0a6d176c49003",
+    "createdAt": "2024-01-07T00:39:58Z"
+  },
+  {
+    "company": "Batz and Sons",
+    "position": "Schmitt-Cronin",
+    "status": "declined",
+    "jobType": "internship",
+    "createdBy": "66ab630060a0a6d176c49003",
+    "createdAt": "2023-11-21T11:21:44Z"
+  },
+  {
+    "company": "Gleichner-Gleason",
+    "position": "Skiles, Gleichner and Nikolaus",
+    "status": "declined",
+    "jobType": "remote",
+    "createdBy": "66ab630060a0a6d176c49003",
+    "createdAt": "2024-01-25T16:42:26Z"
+  },
+  {
+    "company": "Spinka-Steuber",
+    "position": "Swift Inc",
+    "status": "pending",
+    "jobType": "internship",
+    "createdBy": "66ab630060a0a6d176c49003",
+    "createdAt": "2024-01-19T19:01:38Z"
+  },
+  {
+    "company": "Schmitt, Wiegand and Willms",
+    "position": "Dickens-Ward",
+    "status": "pending",
+    "jobType": "internship",
+    "createdBy": "66ab630060a0a6d176c49003",
+    "createdAt": "2023-12-25T07:40:20Z"
+  },
+  {
+    "company": "Braun Group",
+    "position": "Murphy Group",
+    "status": "declined",
+    "jobType": "internship",
+    "createdBy": "66ab630060a0a6d176c49003",
+    "createdAt": "2023-12-30T23:31:14Z"
+  },
+  {
+    "company": "Larkin-Vandervort",
+    "position": "Macejkovic LLC",
+    "status": "declined",
+    "jobType": "internship",
+    "createdBy": "66ab630060a0a6d176c49003",
+    "createdAt": "2024-02-17T03:46:51Z"
+  },
+  {
+    "company": "Shields Inc",
+    "position": "Lemke-Bins",
+    "status": "declined",
+    "jobType": "full-time",
+    "createdBy": "66ab630060a0a6d176c49003",
+    "createdAt": "2023-08-12T10:28:58Z"
+  },
+  {
+    "company": "Kuhlman LLC",
+    "position": "Sporer, Hane and Greenholt",
+    "status": "declined",
+    "jobType": "internship",
+    "createdBy": "66ab630060a0a6d176c49003",
+    "createdAt": "2023-11-14T02:45:30Z"
+  },
+  {
+    "company": "Waters, Wolf and Kulas",
+    "position": "Kreiger-Nitzsche",
+    "status": "declined",
+    "jobType": "part-time",
+    "createdBy": "66ab630060a0a6d176c49003",
+    "createdAt": "2023-08-11T07:53:38Z"
+  },
+  {
+    "company": "Kirlin and Sons",
+    "position": "Predovic, Franecki and Terry",
+    "status": "declined",
+    "jobType": "internship",
+    "createdBy": "66ab630060a0a6d176c49003",
+    "createdAt": "2023-08-31T05:59:31Z"
+  },
+  {
+    "company": "Klein and Sons",
+    "position": "Haley-Howe",
+    "status": "interview",
+    "jobType": "full-time",
+    "createdBy": "66ab630060a0a6d176c49003",
+    "createdAt": "2023-09-15T15:13:51Z"
+  },
+  {
+    "company": "Armstrong, Cruickshank and Champlin",
+    "position": "Feil, Witting and Gleason",
+    "status": "pending",
+    "jobType": "remote",
+    "createdBy": "66ab630060a0a6d176c49003",
+    "createdAt": "2023-11-13T22:00:49Z"
+  },
+  {
+    "company": "Harvey and Sons",
+    "position": "Goodwin-Schowalter",
+    "status": "interview",
+    "jobType": "remote",
+    "createdBy": "66ab630060a0a6d176c49003",
+    "createdAt": "2024-01-19T03:34:19Z"
+  },
+  {
+    "company": "Gleason LLC",
+    "position": "Daniel-Yost",
+    "status": "declined",
+    "jobType": "full-time",
+    "createdBy": "66ab630060a0a6d176c49003",
+    "createdAt": "2024-01-02T05:47:38Z"
+  },
+  {
+    "company": "Hettinger Group",
+    "position": "Moen Group",
+    "status": "declined",
+    "jobType": "internship",
+    "createdBy": "66ab630060a0a6d176c49003",
+    "createdAt": "2024-02-10T04:47:43Z"
+  },
+  {
+    "company": "Heaney-Russel",
+    "position": "Dicki-Hermann",
+    "status": "pending",
+    "jobType": "internship",
+    "createdBy": "66ab630060a0a6d176c49003",
+    "createdAt": "2023-08-21T15:15:37Z"
+  },
+  {
+    "company": "Becker and Sons",
+    "position": "Gleichner, Quitzon and Rogahn",
+    "status": "interview",
+    "jobType": "full-time",
+    "createdBy": "66ab630060a0a6d176c49003",
+    "createdAt": "2023-08-24T01:28:36Z"
+  },
+  {
+    "company": "Larson-Bailey",
+    "position": "Abernathy-Funk",
+    "status": "pending",
+    "jobType": "part-time",
+    "createdBy": "66ab630060a0a6d176c49003",
+    "createdAt": "2023-08-24T21:51:56Z"
+  },
+  {
+    "company": "Cruickshank, Jones and Davis",
+    "position": "Purdy-Wisozk",
+    "status": "pending",
+    "jobType": "remote",
+    "createdBy": "66ab630060a0a6d176c49003",
+    "createdAt": "2024-01-18T12:17:42Z"
+  },
+  {
+    "company": "Gislason Group",
+    "position": "Sanford-Zboncak",
+    "status": "pending",
+    "jobType": "remote",
+    "createdBy": "66ab630060a0a6d176c49003",
+    "createdAt": "2023-08-25T09:12:08Z"
+  },
+  {
+    "company": "Breitenberg-Medhurst",
+    "position": "Satterfield Group",
+    "status": "declined",
+    "jobType": "part-time",
+    "createdBy": "66ab630060a0a6d176c49003",
+    "createdAt": "2024-03-03T00:26:24Z"
+  },
+  {
+    "company": "Cremin, Weber and Carter",
+    "position": "D'Amore, Braun and Murphy",
+    "status": "interview",
+    "jobType": "internship",
+    "createdBy": "66ab630060a0a6d176c49003",
+    "createdAt": "2024-01-25T22:04:18Z"
+  },
+  {
+    "company": "Schmeler-Gislason",
+    "position": "Lemke and Sons",
+    "status": "declined",
+    "jobType": "part-time",
+    "createdBy": "66ab630060a0a6d176c49003",
+    "createdAt": "2024-03-13T22:50:56Z"
+  },
+  {
+    "company": "Koelpin-Waters",
+    "position": "Ernser, Walker and Balistreri",
+    "status": "declined",
+    "jobType": "internship",
+    "createdBy": "66ab630060a0a6d176c49003",
+    "createdAt": "2023-12-30T05:22:11Z"
+  },
+  {
+    "company": "Weimann, Funk and Schaefer",
+    "position": "Kertzmann and Sons",
+    "status": "declined",
+    "jobType": "part-time",
+    "createdBy": "66ab630060a0a6d176c49003",
+    "createdAt": "2023-10-02T12:24:23Z"
+  },
+  {
+    "company": "Smith Inc",
+    "position": "Bosco-Gleason",
+    "status": "pending",
+    "jobType": "full-time",
+    "createdBy": "66ab630060a0a6d176c49003",
+    "createdAt": "2024-04-04T03:09:59Z"
+  },
+  {
+    "company": "Schamberger Group",
+    "position": "Volkman-Friesen",
+    "status": "declined",
+    "jobType": "full-time",
+    "createdBy": "66ab630060a0a6d176c49003",
+    "createdAt": "2024-01-26T08:44:54Z"
+  },
+  {
+    "company": "Jacobs-Nitzsche",
+    "position": "Marvin, Greenholt and Sporer",
+    "status": "interview",
+    "jobType": "part-time",
+    "createdBy": "66ab630060a0a6d176c49003",
+    "createdAt": "2023-09-27T20:05:47Z"
+  },
+  {
+    "company": "Gorczany, Jacobi and Beer",
+    "position": "Mayer, Heathcote and Ortiz",
+    "status": "interview",
+    "jobType": "remote",
+    "createdBy": "66ab630060a0a6d176c49003",
+    "createdAt": "2023-10-28T00:42:16Z"
+  },
+  {
+    "company": "Cummerata Inc",
+    "position": "Brekke-Marquardt",
+    "status": "declined",
+    "jobType": "remote",
+    "createdBy": "66ab630060a0a6d176c49003",
+    "createdAt": "2023-10-14T08:48:57Z"
+  },
+  {
+    "company": "O'Kon Group",
+    "position": "Grady-Heaney",
+    "status": "pending",
+    "jobType": "full-time",
+    "createdBy": "66ab630060a0a6d176c49003",
+    "createdAt": "2023-11-13T20:06:46Z"
+  },
+  {
+    "company": "Hegmann-Lowe",
+    "position": "Pouros, Spencer and Heaney",
+    "status": "declined",
+    "jobType": "part-time",
+    "createdBy": "66ab630060a0a6d176c49003",
+    "createdAt": "2024-02-13T07:24:22Z"
+  },
+  {
+    "company": "Torphy and Sons",
+    "position": "Osinski-Bernier",
+    "status": "declined",
+    "jobType": "part-time",
+    "createdBy": "66ab630060a0a6d176c49003",
+    "createdAt": "2023-09-06T02:20:06Z"
+  },
+  {
+    "company": "Graham, Lemke and Runte",
+    "position": "Spinka Inc",
+    "status": "interview",
+    "jobType": "full-time",
+    "createdBy": "66ab630060a0a6d176c49003",
+    "createdAt": "2024-01-23T05:57:40Z"
+  },
+  {
+    "company": "Gottlieb-Stokes",
+    "position": "Larkin-Mertz",
+    "status": "pending",
+    "jobType": "remote",
+    "createdBy": "66ab630060a0a6d176c49003",
+    "createdAt": "2024-02-28T20:09:43Z"
+  },
+  {
+    "company": "Howe-Emmerich",
+    "position": "Walker Group",
+    "status": "interview",
+    "jobType": "internship",
+    "createdBy": "66ab630060a0a6d176c49003",
+    "createdAt": "2024-03-08T19:07:07Z"
+  },
+  {
+    "company": "Ebert and Sons",
+    "position": "MacGyver-Collier",
+    "status": "pending",
+    "jobType": "full-time",
+    "createdBy": "66ab630060a0a6d176c49003",
+    "createdAt": "2023-11-06T05:12:08Z"
+  },
+  {
+    "company": "Ernser-Muller",
+    "position": "Kreiger and Sons",
+    "status": "pending",
+    "jobType": "internship",
+    "createdBy": "66ab630060a0a6d176c49003",
+    "createdAt": "2023-08-27T19:46:13Z"
+  },
+  {
+    "company": "Murray, Grimes and Treutel",
+    "position": "Schroeder and Sons",
+    "status": "interview",
+    "jobType": "internship",
+    "createdBy": "66ab630060a0a6d176c49003",
+    "createdAt": "2023-11-28T11:56:43Z"
+  },
+  {
+    "company": "Klein Group",
+    "position": "Schmitt, Daugherty and Zulauf",
+    "status": "pending",
+    "jobType": "internship",
+    "createdBy": "66ab630060a0a6d176c49003",
+    "createdAt": "2023-09-27T15:52:23Z"
+  },
+  {
+    "company": "Kozey-Bailey",
+    "position": "Herzog LLC",
+    "status": "pending",
+    "jobType": "remote",
+    "createdBy": "66ab630060a0a6d176c49003",
+    "createdAt": "2023-12-15T16:58:32Z"
+  },
+  {
+    "company": "Jakubowski-Cassin",
+    "position": "Osinski, Zemlak and Armstrong",
+    "status": "pending",
+    "jobType": "full-time",
+    "createdBy": "66ab630060a0a6d176c49003",
+    "createdAt": "2024-02-06T01:49:21Z"
+  },
+  {
+    "company": "Rowe-Parker",
+    "position": "Ullrich, Bruen and Hermiston",
+    "status": "pending",
+    "jobType": "full-time",
+    "createdBy": "66ab630060a0a6d176c49003",
+    "createdAt": "2024-02-03T02:15:13Z"
+  },
+  {
+    "company": "Schowalter-Kreiger",
+    "position": "Hermiston Group",
+    "status": "declined",
+    "jobType": "internship",
+    "createdBy": "66ab630060a0a6d176c49003",
+    "createdAt": "2023-10-29T09:04:43Z"
+  },
+  {
+    "company": "Roberts-Rutherford",
+    "position": "Dach LLC",
+    "status": "declined",
+    "jobType": "internship",
+    "createdBy": "66ab630060a0a6d176c49003",
+    "createdAt": "2024-01-01T20:56:41Z"
+  },
+  {
+    "company": "Marvin, Bradtke and Grant",
+    "position": "Mills-Baumbach",
+    "status": "interview",
+    "jobType": "remote",
+    "createdBy": "66ab630060a0a6d176c49003",
+    "createdAt": "2023-08-11T00:13:46Z"
+  },
+  {
+    "company": "Schaden Inc",
+    "position": "Gibson LLC",
+    "status": "interview",
+    "jobType": "remote",
+    "createdBy": "66ab630060a0a6d176c49003",
+    "createdAt": "2024-03-25T21:40:06Z"
+  },
+  {
+    "company": "O'Conner, Hickle and Glover",
+    "position": "Hintz, Hickle and Runolfsdottir",
+    "status": "declined",
+    "jobType": "part-time",
+    "createdBy": "66ab630060a0a6d176c49003",
+    "createdAt": "2023-10-24T15:33:59Z"
+  },
+  {
+    "company": "Witting-Jast",
+    "position": "Boehm, Lind and Osinski",
+    "status": "interview",
+    "jobType": "part-time",
+    "createdBy": "66ab630060a0a6d176c49003",
+    "createdAt": "2024-02-14T08:16:45Z"
+  },
+  {
+    "company": "Bernier-Lindgren",
+    "position": "Herzog Group",
+    "status": "declined",
+    "jobType": "remote",
+    "createdBy": "66ab630060a0a6d176c49003",
+    "createdAt": "2024-02-20T02:51:29Z"
+  },
+  {
+    "company": "Schiller, Dooley and Tillman",
+    "position": "Ratke and Sons",
+    "status": "pending",
+    "jobType": "internship",
+    "createdBy": "66ab630060a0a6d176c49003",
+    "createdAt": "2023-08-19T06:15:10Z"
+  },
+  {
+    "company": "Wolff-Marvin",
+    "position": "Klein-Gerhold",
+    "status": "interview",
+    "jobType": "internship",
+    "createdBy": "66ab630060a0a6d176c49003",
+    "createdAt": "2023-12-26T02:30:09Z"
+  },
+  {
+    "company": "Ebert, Ferry and Mosciski",
+    "position": "Lehner-Weber",
+    "status": "pending",
+    "jobType": "internship",
+    "createdBy": "66ab630060a0a6d176c49003",
+    "createdAt": "2023-08-31T01:41:16Z"
+  },
+  {
+    "company": "Brekke LLC",
+    "position": "Yost-Kling",
+    "status": "pending",
+    "jobType": "internship",
+    "createdBy": "66ab630060a0a6d176c49003",
+    "createdAt": "2023-11-16T23:52:07Z"
+  },
+  {
+    "company": "Treutel-Haley",
+    "position": "Anderson-Hartmann",
+    "status": "declined",
+    "jobType": "part-time",
+    "createdBy": "66ab630060a0a6d176c49003",
+    "createdAt": "2024-02-12T04:12:32Z"
+  },
+  {
+    "company": "Veum, Breitenberg and Hansen",
+    "position": "Grady, Prohaska and Olson",
+    "status": "declined",
+    "jobType": "remote",
+    "createdBy": "66ab630060a0a6d176c49003",
+    "createdAt": "2024-03-22T18:03:12Z"
+  },
+  {
+    "company": "Price and Sons",
+    "position": "Jacobson Inc",
+    "status": "interview",
+    "jobType": "internship",
+    "createdBy": "66ab630060a0a6d176c49003",
+    "createdAt": "2024-01-03T17:23:37Z"
+  },
+  {
+    "company": "Little-Runolfsson",
+    "position": "Bins, Zemlak and Lebsack",
+    "status": "pending",
+    "jobType": "full-time",
+    "createdBy": "66ab630060a0a6d176c49003",
+    "createdAt": "2024-02-24T09:19:32Z"
+  },
+  {
+    "company": "Reichel LLC",
+    "position": "Olson, McGlynn and Medhurst",
+    "status": "interview",
+    "jobType": "remote",
+    "createdBy": "66ab630060a0a6d176c49003",
+    "createdAt": "2023-10-08T09:37:12Z"
+  },
+  {
+    "company": "Will-Ortiz",
+    "position": "Raynor LLC",
+    "status": "interview",
+    "jobType": "full-time",
+    "createdBy": "66ab630060a0a6d176c49003",
+    "createdAt": "2024-01-01T04:54:45Z"
+  },
+  {
+    "company": "Kohler, Oberbrunner and Schinner",
+    "position": "Homenick, Boyle and Bins",
+    "status": "declined",
+    "jobType": "part-time",
+    "createdBy": "66ab630060a0a6d176c49003",
+    "createdAt": "2023-09-16T08:47:50Z"
+  },
+  {
+    "company": "Kautzer Group",
+    "position": "Champlin-Klocko",
+    "status": "interview",
+    "jobType": "internship",
+    "createdBy": "66ab630060a0a6d176c49003",
+    "createdAt": "2023-12-29T06:23:23Z"
+  },
+  {
+    "company": "King, Moore and Green",
+    "position": "Gibson-Harris",
+    "status": "pending",
+    "jobType": "part-time",
+    "createdBy": "66ab630060a0a6d176c49003",
+    "createdAt": "2024-01-22T18:59:02Z"
+  },
+  {
+    "company": "Klein, Gulgowski and Kulas",
+    "position": "Schowalter-Muller",
+    "status": "declined",
+    "jobType": "part-time",
+    "createdBy": "66ab630060a0a6d176c49003",
+    "createdAt": "2024-04-04T16:44:48Z"
+  },
+  {
+    "company": "Fritsch, Wunsch and Trantow",
+    "position": "Tromp Group",
+    "status": "declined",
+    "jobType": "part-time",
+    "createdBy": "66ab630060a0a6d176c49003",
+    "createdAt": "2023-08-21T05:36:24Z"
+  },
+  {
+    "company": "Fahey, Pfeffer and Casper",
+    "position": "Farrell, Stamm and Tremblay",
+    "status": "interview",
+    "jobType": "internship",
+    "createdBy": "66ab630060a0a6d176c49003",
+    "createdAt": "2023-08-15T05:49:53Z"
+  },
+  {
+    "company": "Powlowski, Denesik and Pagac",
+    "position": "Herman and Sons",
+    "status": "interview",
+    "jobType": "full-time",
+    "createdBy": "66ab630060a0a6d176c49003",
+    "createdAt": "2024-03-04T08:38:20Z"
+  },
+  {
+    "company": "Rath Inc",
+    "position": "Wehner-Borer",
+    "status": "interview",
+    "jobType": "part-time",
+    "createdBy": "66ab630060a0a6d176c49003",
+    "createdAt": "2023-08-14T20:18:41Z"
+  },
+  {
+    "company": "Padberg, O'Keefe and McCullough",
+    "position": "Schmidt Inc",
+    "status": "interview",
+    "jobType": "remote",
+    "createdBy": "66ab630060a0a6d176c49003",
+    "createdAt": "2024-04-06T16:22:21Z"
+  },
+  {
+    "company": "D'Amore-Graham",
+    "position": "Nolan LLC",
+    "status": "pending",
+    "jobType": "part-time",
+    "createdBy": "66ab630060a0a6d176c49003",
+    "createdAt": "2023-09-18T12:18:15Z"
+  },
+  {
+    "company": "Hermann-Becker",
+    "position": "Runte, Dibbert and Langosh",
+    "status": "declined",
+    "jobType": "part-time",
+    "createdBy": "66ab630060a0a6d176c49003",
+    "createdAt": "2024-03-03T01:32:00Z"
+  },
+  {
+    "company": "Witting, Aufderhar and Langosh",
+    "position": "Romaguera-Nicolas",
+    "status": "declined",
+    "jobType": "part-time",
+    "createdBy": "66ab630060a0a6d176c49003",
+    "createdAt": "2024-03-13T02:22:56Z"
+  },
+  {
+    "company": "Pollich Inc",
+    "position": "Mayert and Sons",
+    "status": "interview",
+    "jobType": "internship",
+    "createdBy": "66ab630060a0a6d176c49003",
+    "createdAt": "2023-11-18T16:58:44Z"
+  },
+  {
+    "company": "Quitzon and Sons",
+    "position": "Prohaska-Block",
+    "status": "declined",
+    "jobType": "full-time",
+    "createdBy": "66ab630060a0a6d176c49003",
+    "createdAt": "2023-12-09T18:51:43Z"
+  },
+  {
+    "company": "O'Keefe LLC",
+    "position": "Stokes-Orn",
+    "status": "pending",
+    "jobType": "remote",
+    "createdBy": "66ab630060a0a6d176c49003",
+    "createdAt": "2023-10-09T05:12:05Z"
+  },
+  {
+    "company": "Funk-Jones",
+    "position": "Schumm, Kessler and Cronin",
+    "status": "interview",
+    "jobType": "full-time",
+    "createdBy": "66ab630060a0a6d176c49003",
+    "createdAt": "2023-08-17T06:35:38Z"
+  },
+  {
+    "company": "McGlynn Inc",
+    "position": "Metz, Shanahan and Lind",
+    "status": "declined",
+    "jobType": "full-time",
+    "createdBy": "66ab630060a0a6d176c49003",
+    "createdAt": "2023-11-20T11:04:54Z"
+  },
+  {
+    "company": "Jaskolski-Walter",
+    "position": "Morissette-Gottlieb",
+    "status": "interview",
+    "jobType": "part-time",
+    "createdBy": "66ab630060a0a6d176c49003",
+    "createdAt": "2023-12-24T01:14:00Z"
+  },
+  {
+    "company": "Crooks and Sons",
+    "position": "Franecki and Sons",
+    "status": "pending",
+    "jobType": "internship",
+    "createdBy": "66ab630060a0a6d176c49003",
+    "createdAt": "2023-10-17T05:24:48Z"
+  },
+  {
+    "company": "Heidenreich and Sons",
+    "position": "Friesen LLC",
+    "status": "declined",
+    "jobType": "internship",
+    "createdBy": "66ab630060a0a6d176c49003",
+    "createdAt": "2023-10-15T18:03:54Z"
+  },
+  {
+    "company": "O'Reilly LLC",
+    "position": "Davis Inc",
+    "status": "interview",
+    "jobType": "part-time",
+    "createdBy": "66ab630060a0a6d176c49003",
+    "createdAt": "2023-08-19T15:31:21Z"
+  },
+  {
+    "company": "Ratke, Bahringer and Morar",
+    "position": "Leffler, Pacocha and Tillman",
+    "status": "interview",
+    "jobType": "internship",
+    "createdBy": "66ab630060a0a6d176c49003",
+    "createdAt": "2023-11-27T01:57:40Z"
+  },
+  {
+    "company": "McClure, Gusikowski and Upton",
+    "position": "Hilll, Murazik and Conroy",
+    "status": "pending",
+    "jobType": "full-time",
+    "createdBy": "66ab630060a0a6d176c49003",
+    "createdAt": "2024-01-27T20:36:45Z"
+  },
+  {
+    "company": "Wuckert Group",
+    "position": "Wilkinson and Sons",
+    "status": "declined",
+    "jobType": "internship",
+    "createdBy": "66ab630060a0a6d176c49003",
+    "createdAt": "2023-08-30T00:47:46Z"
+  },
+  {
+    "company": "Abshire, Tillman and Ratke",
+    "position": "Rutherford, Bailey and Stracke",
+    "status": "pending",
+    "jobType": "remote",
+    "createdBy": "66ab630060a0a6d176c49003",
+    "createdAt": "2023-12-19T04:21:13Z"
+  },
+  {
+    "company": "Fisher, Kris and Gutkowski",
+    "position": "Wolf-Nolan",
+    "status": "interview",
+    "jobType": "internship",
+    "createdBy": "66ab630060a0a6d176c49003",
+    "createdAt": "2023-09-17T19:05:27Z"
+  }
+]
