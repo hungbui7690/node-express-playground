@@ -1,31 +1,57 @@
 /*
+  Refresh Token 
+  - pic: refresh-token
+  - for security reason, we need to have 2 tokens: Access <AT> & Refresh Token <RT>
+    + Access Token: use for all of the requests -> 15m, 1hr...
+    + Refresh Token: use when <AT> is expired to generate new <AT> -> very long -> 30d...
 
-  Refresh Token >>> chủ đề này khó 
 
-  *** Bởi vì logout chưa có >> muốn ra lại thì:
-      - clear cookies
-      - hoặc vào localhost:3000/login
+*************************
 
-  - Khi chúng ta login >> chúng ta có token trong Cookies 
-  - Nhưng nếu user đang làm và token expire thì sao  >> sẽ bị logout
+  - Since we don't have logout route: 
+    -> clear cookies 
+    -> or localhost:3000/login
+  
+  - When we login, we will have token in Cookies 
+    -> but if user is working, then token expires -> user will be logout
 
-  >> sẽ có 2 token >> PIC: refresh token
-    + accessToken >>> expire nhanh (15p, 1h ...  )
-    + refreshToken >>> thằng này sẽ lâu
 
-/////////////////////////////////////////////////////////////////////
+*************************
+
+  Steps: 
+  1. Login 
+    -> <AT> and <RT> will be sent back to client 
+  2. use <AT> to access protected routes /api/profile, /api/products...
+    -> Protected resources is returned
+  3. <AT> expires, then use <RT> to generate new <AT> -> go to /api/refresh-token for example
+    -> <AT> is returned
+    -> use new <AT> too access protected routes
+
+  
+  🔍 Since <AT> has short lifespan -> when hackers get <AT>, they can use for short period of time 
+    -> <RT> is used less frequently -> so it's hard to be hacked than <AT> -> but if <RT> is hacked, they can used it to generate new <AT>
+
+  
+*************************
+
+  Validate <RT> 
+  - <AT> is stored in client 
+  - <RT> is stored in both client and server 
+    -> to revalidate -> check if the IP address that is saved from server is different than client -> email or sms will be sent to that user to verify if it is the correct user
+    -> if not -> revoke <RT>
+
+
+*************************
 
   Token Model
-
   - [] create Token.js in models
   - [] refreshToken,ip,userAgent - all String and required
   - [] isValid - Boolean, default:true
   - [] ref user
   - [] timestamps true
 
-/////////////////////////////////////////////////////////////////////
 
-  (1) create models/Token.js
+  1. create models/Token.js
 
 
 */
