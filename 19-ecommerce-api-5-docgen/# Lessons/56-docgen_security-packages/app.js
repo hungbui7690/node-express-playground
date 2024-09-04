@@ -1,5 +1,5 @@
 /*
-  DocGen vs Security Packages
+  Method 1: DocGen vs Security Packages
   - pic: docgen
   
   - setup docs -> docgen
@@ -40,6 +40,12 @@
     + error -> inline JS in public/index.js -> 
 
   - pic: docgen-fix
+
+
+********************************
+
+  Method 2: Postman Documentation
+  - pic: postman-document
 
 
 ********************************
