@@ -1,17 +1,18 @@
 /*
+  Async Wrapper
   - now, in controllers, all functions must have try/catch because we are using async/await 
-    > code looks messy
-
-  - solution: create middleware function to wrap our controllers
-    > in mdw function, there is logic that helps us remove try/catch
+    -> code looks messy
+    -> solution: create middleware function to wrap our controllers
+      # in mdw function, there is logic that helps us remove try/catch
   
-  *** there is package that helps us do this -> later in upcoming projects
+  *** there is package that helps us do this -> later in upcoming projects -> express-async-errors 
 
 
 **************************
 
   Steps: 
   1. create file /middleware/async.js -> contain asyncWrapper() 
+    -> error will be passed down using next()
   2. export & import into controller
   3. use asyncWrapper in function. Ex:
       - old: 

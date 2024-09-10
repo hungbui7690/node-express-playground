@@ -1,12 +1,9 @@
 /*
   Send Multiple Cookies
+  - everytime user logins -> create new <RT>
+  - always have 2 tokens (1 short + 1 long lifetime span)
 
-/////////////////////////////////////////////////////////////////////
-
-  (1) create authController.js
-
-  >> mỗi khi user login, thì refresh token sẽ đc tạo mới 
-  >> sẽ luôn có 2 tokens đi chung với nhau (1 ngắn, 1 dài)
+  1. create authController.js
 
 
 */

@@ -72,7 +72,7 @@ const login = async (req, res) => {
   const ip = req.ip
   const userToken = { refreshToken, ip, userAgent, user: user._id }
 
-  // (d)
+  // (d) save accessToken to DB
   const token = await Token.create(userToken)
 
   // attachCookiesToResponse({ res, user: tokenUser }) // (a) comment lại

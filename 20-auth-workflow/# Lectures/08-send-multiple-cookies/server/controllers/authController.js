@@ -69,14 +69,14 @@ const login = async (req, res) => {
   const ip = req.ip
   const userToken = { refreshToken, ip, userAgent, user: user._id }
 
-  // (1)
+  // 1. should add refreshToken to DB to re-validate later
   await Token.create(userToken)
 
-  // (3) sang utils/jwt.js
+  // 3. sang utils/jwt.js
   attachCookiesToResponse({ res, user: tokenUser, refreshToken })
   // attachCookiesToResponse({ res, user: tokenUser })
 
-  // (2) để lại như cũ
+  // 2. để lại như cũ
   res.status(StatusCodes.OK).json({ user: tokenUser })
 }
 

@@ -34,10 +34,13 @@
   
 *************************
 
-  Validate <RT> 
+  Re-validate <RT> & generate <AT>
   - <AT> is stored in client 
-  - <RT> is stored in both client and server 
-    -> to revalidate -> check if the IP address that is saved from server is different than client -> email or sms will be sent to that user to verify if it is the correct user
+  - <RT> is stored in both client and server (DB)
+    -> to revalidate 
+      + check if the IP address that is saved from server is different than client -> email or sms will be sent to that user to verify if it is the correct user
+      + check if <RT> from client is match with <RT> from DB
+    -> if true -> generate new <AT> & <RT>
     -> if not -> revoke <RT>
 
 

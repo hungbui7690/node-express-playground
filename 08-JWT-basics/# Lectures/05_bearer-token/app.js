@@ -30,8 +30,9 @@
 
   - check out server log -> we will see req.headers of /dashboard contains token 
   - next lesson, we will check the token, if token is correct, we will send back payload (now, it's hard code)
-  
-  */
+
+
+*/
 
 require('dotenv').config()
 require('express-async-errors')
