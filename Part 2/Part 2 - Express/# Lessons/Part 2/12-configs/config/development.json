@@ -1,0 +1,14 @@
+{
+  "name": "My Express App - Development",
+  "Customer": {
+    "dbConfig": {
+      "host": "development-db-server"
+    },
+    "credit": {
+      "initialDays": 30
+    }
+  },
+  "mail": {
+    "host": "dev-mail-server"
+  }
+}
